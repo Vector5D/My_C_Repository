@@ -1,6 +1,8 @@
-//Nice to meet you!
-//This is a hello world program,
-//Let's enjoy coding!
+/*
+*Nice to meet you!I'm Vector5D.
+*This is a hello world program,
+*Let's enjoy coding!
+*/
 
 #include <stdio.h>
 
