@@ -1,2 +1,3 @@
-# MyRepository
-this is my first repository
+# My_C_Repository
+
+C语言整理
